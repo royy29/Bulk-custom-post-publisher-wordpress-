@@ -1,4 +1,4 @@
-# Bulk Post Publisher Plugin for WordPress
+# Bulk Custom Post Publisher Plugin for WordPress
 
 ## Overview
 
