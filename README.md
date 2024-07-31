@@ -152,7 +152,7 @@ We welcome contributions to enhance this plugin. Please fork the repository, mak
 
 ## License
 
-This plugin is open-source and available under the MIT License.
+This plugin is open to all and anyone can use it. Thank me later!
 
 ## Support
 
